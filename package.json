@@ -4,10 +4,10 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "dev": "cd 'project Ai interviewer' && vite",
+    "build": "cd 'project Ai interviewer' && vite build",
+    "lint": "cd 'project Ai interviewer' && eslint .",
+    "preview": "cd 'project Ai interviewer' && vite preview"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.7",
